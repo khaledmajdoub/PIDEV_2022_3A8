@@ -44,6 +44,7 @@ public class UserCRUD {
 }
    */
     
+    // methode ajouter user dynamique
     
    public void ajouterUser2(User u){
         try {
